@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAYANT KUMAR</h1>
 <h3 align="center">
-Full Stack Developer | AI & ML Enthusiast | Open Source Learner
+Software Developer | AI & ML Enthusiast | Full Stack Developer | Open Source Learner
 </h3>
 
 <img align="right" alt="Coding" width="400"
@@ -13,7 +13,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 🌱 Currently learning System Design & Cloud Technologies
 - 🔥 Love building scalable web applications
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **kumarjayant087@gmail.com**
 
 ---
 
@@ -59,15 +59,22 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💼 Featured Projects
 
-## 🔹 Fake Comment Detection using BERT
-> Detects fake/spam comments using NLP and Deep Learning.
+## 🔹 Legal-Assistance-System-IPC-Section-Prediction
+> Designed and developed an AI-based web application that predicts relevant IPC sections from natural language case descriptions using NLP and machine learning. Built an interactive interface for legal query processing, enabling faster and more accurate preliminary legal analysis.
 
-**Tech Used**
-- Python
-- BERT
-- Transformers
-- Flask
-- MongoDB
+**Key Features**
+- Predicts relevant IPC sections from textual case descriptions.
+- Uses NLP techniques to understand legal context.
+- Provides quick legal guidance through a user-friendly web interface.
+- Reduces manual effort in identifying applicable legal provisions.
+- Can assist law students, legal practitioners, and citizens in preliminary case analysis.
+
+**Tech Stack**
+- Predicts relevant IPC sections from textual case descriptions.
+- Uses NLP techniques to understand legal context.
+- Provides quick legal guidance through a user-friendly web interface.
+- Reduces manual effort in identifying applicable legal provisions.
+- Can assist law students, legal practitioners, and citizens in preliminary case analysis.
 
 ---
 
