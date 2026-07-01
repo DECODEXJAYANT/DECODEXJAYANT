@@ -1,177 +1,114 @@
-<h1 align="center">Hi 👋, I'm JAYANT KUMAR</h1>
-<h3 align="center">
-Software Developer | AI & ML Enthusiast | Full Stack Developer | Open Source Learner
-</h3>
-
-<img align="right" alt="Coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🚀 About Me
-
-- 🎓 B.Tech Graduate from NIT Hamirpur
-- 💻 Passionate about Full Stack Development
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌱 Currently learning System Design & Cloud Technologies
-- 🔥 Love building scalable web applications
-- 📫 Reach me at **kumarjayant087@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-### Tools & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux,postman"/>
-</p>
-
----
-
-# 💼 Featured Projects
-
-## 🔹 Legal-Assistance-System-IPC-Section-Prediction
-> Designed and developed an AI-based web application that predicts relevant IPC sections from natural language case descriptions using NLP and machine learning. Built an interactive interface for legal query processing, enabling faster and more accurate preliminary legal analysis.
-
-**Key Features**
-- Predicts relevant IPC sections from textual case descriptions.
-- Uses NLP techniques to understand legal context.
-- Provides quick legal guidance through a user-friendly web interface.
-- Reduces manual effort in identifying applicable legal provisions.
-- Can assist law students, legal practitioners, and citizens in preliminary case analysis.
-
-**Tech Stack**
-- Predicts relevant IPC sections from textual case descriptions.
-- Uses NLP techniques to understand legal context.
-- Provides quick legal guidance through a user-friendly web interface.
-- Reduces manual effort in identifying applicable legal provisions.
-- Can assist law students, legal practitioners, and citizens in preliminary case analysis.
-
----
-
-## 🔹 Healthcare Patient Management System
-
-Appointment booking platform for patients and doctors.
-
-**Tech Used**
-
-- Next.js
-- Django
-- MongoDB
-
----
-
-## 🔹 Network Security Threat Detection Platform
-
-Machine Learning based threat detection system.
-
-**Tech Used**
-
-- Python
-- AWS
-- Docker
-- MongoDB
-- Scikit-Learn
-
----
-
-## 🔹 Tourism Trip Planner
-
-AI powered trip planning application.
-
-**Tech Used**
-
-- React
-- Django
-- Gemini API
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=JAYANT%20KUMAR&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=DECODEXJAYANT">
+    <img src="https://komarev.com/ghpvc/?username=DECODEXJAYANT&label=Profile%20views&color=00FFFF&style=flat-square" alt="DECODEXJAYANT's profile views" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+## 📌 About Me
+- I'm a Computer Science graduate passionate about solving real-world problems through technology. My interests lie in Artificial Intelligence, Machine Learning, Network Security, and Software Development. I enjoy building data-driven applications, exploring new technologies, and continuously improving my problem-solving skills through Data Structures and Algorithms. I'm always eager to learn, collaborate, and contribute to impactful projects.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+## 🧠 My Focus Areas
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Open Source Contributions
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/DECODEXJAYANT">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DECODEXJAYANT&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="DECODEXJAYANT's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=DECODEXJAYANT&theme=onedark&hide_border=true&cache_seconds=86400" alt="DECODEXJAYANT's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=DECODEXJAYANT&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="JAYANT KUMAR's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DECODEXJAYANT&theme=onedark&radius=10" alt="DECODEXJAYANT's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
 </p>
 
----
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
-## 🏆 GitHub Trophies
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
+  <a href="https://github.com/DECODEXJAYANT">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DECODEXJAYANT&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-## 📈 Contribution Graph
-
-[![Jayant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
-
----
-
-## 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayantkumar087/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/7827430358">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kumarjayant087@gmial.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
-
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+
