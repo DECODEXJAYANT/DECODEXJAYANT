@@ -109,3 +109,16 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
+## 🚀 Coding Portfolio
+
+<p align="center">
+  <a href="https://codolio.com/profile/DECODEXJAYANT">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Tap+to+Explore+My+Developer+Portfolio;LeetCode+%7C+Codeforces+%7C+GitHub;Visit+My+Codolio+Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/DECODEXJAYANT">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Codolio%20Profile-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
