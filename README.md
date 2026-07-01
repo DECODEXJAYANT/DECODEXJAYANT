@@ -25,9 +25,6 @@
   <img src="https://streak-stats.demolab.com/?user=DECODEXJAYANT&theme=onedark&hide_border=true&cache_seconds=86400" alt="DECODEXJAYANT's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=DECODEXJAYANT&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="JAYANT KUMAR's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DECODEXJAYANT&theme=onedark&radius=10" alt="DECODEXJAYANT's Activity Graph" />
 </p>
 
