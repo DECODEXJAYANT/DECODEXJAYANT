@@ -41,22 +41,22 @@
 </p>
 
 <h3 align="center">Frontend</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" />
 </p>
 
 <h3 align="center">Backend</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" />
 </p>
 
 <h3 align="center">Database</h3>
@@ -111,14 +111,14 @@
 
 ## 🚀 Coding Portfolio
 
-<p align="center">
-  <a href="https://codolio.com/profile/DECODEXJAYANT">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Tap+to+Explore+My+Developer+Portfolio;LeetCode+%7C+Codeforces+%7C+GitHub;Visit+My+Codolio+Profile"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://codolio.com/profile/DECODEXJAYANT">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Codolio%20Profile-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+# 🌟 Explore My Coding Journey
+
+<a href="https://codolio.com/profile/DECODEXJAYANT">
+<img src="https://img.shields.io/badge/Visit%20My%20Codolio%20Profile-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
+</a>
+
+### 💻 LeetCode • Codeforces • GeeksforGeeks • Coding Achievements
+
+</div>
