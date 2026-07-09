@@ -16,18 +16,28 @@
 - Data Structures & Algorithms
 - Open Source Contributions
 
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/DECODEXJAYANT">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DECODEXJAYANT&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="DECODEXJAYANT's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=DECODEXJAYANT&theme=onedark&hide_border=true&cache_seconds=86400" alt="DECODEXJAYANT's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DECODEXJAYANT&theme=onedark&radius=10" alt="DECODEXJAYANT's Activity Graph" />
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DECODEXJAYANT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DECODEXJAYANT&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DECODEXJAYANT&theme=tokyo-night&hide_border=true&radius=10"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ## 🛠️ Languages & Tools
 
